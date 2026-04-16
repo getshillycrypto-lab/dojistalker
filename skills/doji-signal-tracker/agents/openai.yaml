@@ -1,0 +1,4 @@
+interface:
+  display_name: "Doji Stalker"
+  short_description: "Track Doji for clawpump.tech across wallet, tweet, Dex, and community signals."
+  default_prompt: "Use this skill to act as a Doji stalker for clawpump.tech by correlating Doji wallet activity, mirrored tweets, DexScreener boosts, pump.fun behavior, and importable evidence without overstating conclusions."
